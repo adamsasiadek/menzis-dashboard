@@ -1,0 +1,12 @@
+name: Menzis_Dashboard
+title: Menzis_Dashboard
+username:
+account: adamsasiadek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3286269
+bundleId: 3894246
+url: https://adamsasiadek.shinyapps.io/Menzis_Dashboard/
+when: 1606122002.78528
+asMultiple: FALSE
+asStatic: FALSE
